@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "koa-static": "^5.0.0"
+  }
+}
